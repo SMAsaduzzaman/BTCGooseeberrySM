@@ -9,7 +9,7 @@ This repository contains a project to predict BTCUSD prices using an LSTM model 
 - `place_buy_order.py`: Script to place a buy order on MetaTrader 5.
 - `place_sell_order.py`: Script to place a sell order on MetaTrader 5.
 - `model.py`: Script for building, training, and hyperparameter tuning of the LSTM model.
-- `btc_usd_data.csv`: The historical BTCUSD data file. That will be updated regularly with the real-time data
+- `btc_usd_data.csv`: The historical BTCUSD data file. That will be updated regularly with real-time data
 
 ## Requirements
 

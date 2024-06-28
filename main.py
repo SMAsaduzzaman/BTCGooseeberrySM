@@ -11,8 +11,8 @@ from place_sell_order import place_sell_order
 from collect_data import collect_data
 
 # Replace 'YOUR_API_TOKEN' with the API token you received from the BotFather
-API_TOKEN = "7025817335:AAEMSBvQuWd5_uR_0cQkXHdff2TrNugz-iY"
-CHAT_ID = '-1002204701547'  # Your actual channel ID
+API_TOKEN = "**********************"
+CHAT_ID = '-***********'  # Your actual channel ID
 
 bot = telebot.TeleBot(API_TOKEN)
 
